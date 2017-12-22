@@ -1,0 +1,17 @@
+/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 "/Users/sungkim/Desktop/Programming Project 2/main.py"
+Running with data/glass_data.txt
+K-means SFS glass performance = 8.633349
+K-means GA glass performance = 1.874083
+HAC SFS glass performance = 22.520710
+
+Running with data/iris_data.txt
+K-means SFS iris performance = 0.839322
+K-means GA iris performance = 0.235710
+HAC SFS iris performance = 0.769651
+HAC GA iris performance = 0.696914
+
+Running with data/spam_data.txt
+K-means SFS spam performance = 0.012161
+K-means GA spam performance = 0.035655
+
+Process finished with exit code 0
