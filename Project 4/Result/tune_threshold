@@ -1,0 +1,198 @@
+Running with data_sets/cpu_data.txt
+Testing stopping threshold = 30000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 106)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 90)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 95)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 99)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 106)')
+Average mean squared error: 39045.383348
+Testing stopping threshold = 25000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 168\nbranches(\n    node(class label: 199)\n    node(class label: 105)))')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 90)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 95)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 168\nbranches(\n    node(class label: 199)\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 1300.0, split branches length: 2, split number of instances: 167\n    branches(\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 64.0, split branches length: 2, split number of instances: 166\n        branches(\n            node(class label: 15)\n            node(class label: 99)))\n        node(class label: 18)))))')
+Fold 5 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 168\nbranches(\n    node(class label: 199)\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 17.0, split branches length: 2, split number of instances: 167\n    branches(\n        node(class label: 116)\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 96.0, split branches length: 2, split number of instances: 166\n        branches(\n            node(class label: 15)\n            node(split attribute: 3, split attribute type: CONTINUOUS, split values: 512.0, split branches length: 2, split number of instances: 165\n            branches(\n                node(class label: 18)\n                node(split attribute: 4, split attribute type: CONTINUOUS, split values: 208.0, split branches length: 2, split number of instances: 164\n                branches(\n                    node(class label: 103)\n                    node(class label: 603)))))))))))')
+Average mean squared error: 36331.756878
+Testing stopping threshold = 10000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 168\nbranches(\n    node(class label: 199)\n    node(class label: 105)))')
+Fold 2 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 168\nbranches(\n    node(class label: 199)\n    node(class label: 90)))')
+Fold 3 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 28.5, split branches length: 2, split number of instances: 168\nbranches(\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 17.0, split branches length: 2, split number of instances: 167\n    branches(\n        node(class label: 101)\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 64.0, split branches length: 2, split number of instances: 166\n        branches(\n            node(class label: 15)\n            node(class label: 96)))))\n    node(class label: 25)))')
+Fold 4 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 168\nbranches(\n    node(class label: 199)\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 1300.0, split branches length: 2, split number of instances: 167\n    branches(\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 64.0, split branches length: 2, split number of instances: 166\n        branches(\n            node(class label: 15)\n            node(class label: 99)))\n        node(class label: 18)))))')
+Fold 5 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 168\nbranches(\n    node(class label: 199)\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 17.0, split branches length: 2, split number of instances: 167\n    branches(\n        node(class label: 116)\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 96.0, split branches length: 2, split number of instances: 166\n        branches(\n            node(class label: 15)\n            node(split attribute: 3, split attribute type: CONTINUOUS, split values: 512.0, split branches length: 2, split number of instances: 165\n            branches(\n                node(class label: 18)\n                node(split attribute: 4, split attribute type: CONTINUOUS, split values: 208.0, split branches length: 2, split number of instances: 164\n                branches(\n                    node(class label: 103)\n                    node(class label: 603)))))))))))')
+Average mean squared error: 37051.804954
+Testing stopping threshold = 1000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 168\nbranches(\n    node(class label: 199)\n    node(class label: 105)))')
+Fold 2 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 168\nbranches(\n    node(class label: 199)\n    node(class label: 90)))')
+Fold 3 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 28.5, split branches length: 2, split number of instances: 168\nbranches(\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 17.0, split branches length: 2, split number of instances: 167\n    branches(\n        node(class label: 101)\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 64.0, split branches length: 2, split number of instances: 166\n        branches(\n            node(class label: 15)\n            node(class label: 96)))))\n    node(class label: 25)))')
+Fold 4 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 168\nbranches(\n    node(class label: 199)\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 1300.0, split branches length: 2, split number of instances: 167\n    branches(\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 64.0, split branches length: 2, split number of instances: 166\n        branches(\n            node(class label: 15)\n            node(class label: 99)))\n        node(class label: 18)))))')
+Fold 5 of 5
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 168\nbranches(\n    node(class label: 199)\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 17.0, split branches length: 2, split number of instances: 167\n    branches(\n        node(class label: 116)\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 96.0, split branches length: 2, split number of instances: 166\n        branches(\n            node(class label: 15)\n            node(split attribute: 3, split attribute type: CONTINUOUS, split values: 512.0, split branches length: 2, split number of instances: 165\n            branches(\n                node(class label: 18)\n                node(split attribute: 4, split attribute type: CONTINUOUS, split values: 208.0, split branches length: 2, split number of instances: 164\n                branches(\n                    node(class label: 103)\n                    node(class label: 603)))))))))))')
+Average mean squared error: 37051.804954
+Running with data_sets/fire_data.txt
+Testing stopping threshold = 30000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 14)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 11)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 13)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 12)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 12)')
+Average mean squared error: 2550.229634
+Testing stopping threshold = 25000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 14)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 11)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 13)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 12)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 12)')
+Average mean squared error: 2550.229634
+Testing stopping threshold = 10000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 14)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 11)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 13)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 12)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 12)')
+Average mean squared error: 2550.229634
+Testing stopping threshold = 1000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 14)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 11)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 13)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 12)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 12)')
+Average mean squared error: 2550.229634
+Running with data_sets/red_wine_data.txt
+Testing stopping threshold = 30000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Average mean squared error: 0.995983
+Testing stopping threshold = 25000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Average mean squared error: 0.995983
+Testing stopping threshold = 10000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Average mean squared error: 0.995983
+Testing stopping threshold = 1000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Average mean squared error: 0.995983
+Running with data_sets/white_wine_data.txt
+Testing stopping threshold = 30000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Average mean squared error: 0.479637
+Testing stopping threshold = 25000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Average mean squared error: 0.479637
+Testing stopping threshold = 10000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Average mean squared error: 0.479637
+Testing stopping threshold = 1000.000000
+Fold 1 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 2 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 3 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 4 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Fold 5 of 5
+('Learned tree: ', '\nnode(class label: 5)')
+Average mean squared error: 0.479637
+
+Process finished with exit code 0

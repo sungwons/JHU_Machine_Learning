@@ -1,0 +1,70 @@
+Running with data_sets/cpu_data.txt
+Starting training
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 80\nbranches(\n    node(class label: 199)\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 17.0, split branches length: 2, split number of instances: 79\n    branches(\n        node(class label: 101)\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 96.0, split branches length: 2, split number of instances: 78\n        branches(\n            node(class label: 15)\n            node(split attribute: 3, split attribute type: CONTINUOUS, split values: 32000.0, split branches length: 2, split number of instances: 77\n            branches(\n                node(split attribute: 4, split attribute type: CONTINUOUS, split values: 129.5, split branches length: 2, split number of instances: 76\n                branches(\n                    node(class label: 85)\n                    node(class label: 102)))\n                node(class label: 749)))))))))')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 80\nbranches(\n    node(class label: 199)\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 17.0, split branches length: 2, split number of instances: 79\n    branches(\n        node(class label: 101)\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 96.0, split branches length: 2, split number of instances: 78\n        branches(\n            node(class label: 15)\n            node(class label: 110)))))))')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 80\nbranches(\n    node(class label: 199)\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 17.0, split branches length: 2, split number of instances: 79\n    branches(\n        node(class label: 101)\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 96.0, split branches length: 2, split number of instances: 78\n        branches(\n            node(class label: 15)\n            node(split attribute: 3, split attribute type: CONTINUOUS, split values: 32000.0, split branches length: 2, split number of instances: 77\n            branches(\n                node(split attribute: 4, split attribute type: CONTINUOUS, split values: 129.5, split branches length: 2, split number of instances: 76\n                branches(\n                    node(split attribute: 5, split attribute type: CONTINUOUS, split values: 0.0, split branches length: 2, split number of instances: 75\n                    branches(\n                        node(class label: 25)\n                        node(class label: 95)))\n                    node(class label: 102)))\n                node(class label: 1238)))))))))')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 28.5, split branches length: 2, split number of instances: 80\nbranches(\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 17.0, split branches length: 2, split number of instances: 79\n    branches(\n        node(class label: 101)\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 16000.0, split branches length: 2, split number of instances: 78\n        branches(\n            node(split attribute: 3, split attribute type: CONTINUOUS, split values: 32000.0, split branches length: 2, split number of instances: 77\n            branches(\n                node(class label: 77)\n                node(class label: 749)))\n            node(class label: 1238)))))\n    node(class label: 25)))')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(split attribute: 0, split attribute type: CONTINUOUS, split values: 1.0, split branches length: 2, split number of instances: 80\nbranches(\n    node(class label: 199)\n    node(split attribute: 1, split attribute type: CONTINUOUS, split values: 1100.0, split branches length: 2, split number of instances: 79\n    branches(\n        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 96.0, split branches length: 2, split number of instances: 78\n        branches(\n            node(class label: 15)\n            node(class label: 111)))\n        node(class label: 20)))))')
+Finished training
+Average mean squared error: 29552.722611
+Running with data_sets/fire_data.txt
+Starting training
+('Learned tree: ', '\nnode(class label: 10)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 9)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 12)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 10)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 12)')
+Finished training
+Average mean squared error: 746.916946
+Running with data_sets/red_wine_data.txt
+Starting training
+('Learned tree: ', '\nnode(class label: 5)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 5)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 5)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 5)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 5)')
+Finished training
+Average mean squared error: 0.456250
+Running with data_sets/white_wine_data.txt
+Starting training
+('Learned tree: ', '\nnode(class label: 5)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 5)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 5)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 5)')
+Finished training
+Starting training
+('Learned tree: ', '\nnode(class label: 5)')
+Finished training
+Average mean squared error: 0.862500
+
+Process finished with exit code 0
