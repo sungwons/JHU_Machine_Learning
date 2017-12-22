@@ -1,0 +1,5264 @@
+Running with data/image_data_1.txt
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 1, score = 0.714286
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 6, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 11, score = 0.704762
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 16, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 21, score = 0.714286
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 26, score = 0.704762
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 31, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 36, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 41, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 46, score = 0.542857
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 51, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 56, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 61, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 66, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 71, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 76, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 81, score = 0.704762
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 86, score = 0.552381
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 91, score = 0.704762
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 96, score = 0.714286
+Running with data/image_data_2.txt
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 1, score = 0.733333
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 6, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 11, score = 0.580952
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 16, score = 0.561905
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 21, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 26, score = 0.714286
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 31, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 36, score = 0.704762
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 41, score = 0.552381
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 46, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 51, score = 0.409524
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 56, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 61, score = 0.714286
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 66, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 71, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 76, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 81, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 86, score = 0.714286
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 91, score = 0.438095
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 96, score = 0.857143
+Running with data/image_data_3.txt
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 1, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 6, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 11, score = 0.542857
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 16, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 21, score = 0.590476
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 26, score = 0.571429
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 31, score = 0.409524
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 36, score = 0.723810
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 41, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 46, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 51, score = 0.704762
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 56, score = 0.571429
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 61, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 66, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 71, score = 0.704762
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 76, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 81, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 86, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 91, score = 0.742857
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 96, score = 0.857143
+Running with data/image_data_4.txt
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 1, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 6, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 11, score = 0.723810
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 16, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 21, score = 0.428571
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 26, score = 0.533333
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 31, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 36, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 41, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 46, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 51, score = 0.733333
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 56, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 61, score = 0.723810
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 66, score = 0.733333
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 71, score = 0.733333
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 76, score = 0.400000
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 81, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 86, score = 0.571429
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 91, score = 0.733333
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 96, score = 0.857143
+Running with data/image_data_5.txt
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 1, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 6, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 11, score = 0.714286
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 16, score = 0.580952
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 21, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 26, score = 0.580952
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 31, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 36, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 41, score = 0.580952
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 46, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 51, score = 0.733333
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 56, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 61, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 66, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 71, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 76, score = 0.723810
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 81, score = 0.714286
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 86, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 91, score = 0.714286
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 96, score = 0.704762
+Running with data/image_data_6.txt
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 1, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 6, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 11, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 16, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 21, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 26, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 31, score = 0.752381
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 36, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 41, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 46, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 51, score = 0.752381
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 56, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 61, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 66, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 71, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 76, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 81, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 86, score = 0.571429
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 91, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 96, score = 0.695238
+Running with data/image_data_7.txt
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 1, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 6, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 11, score = 0.742857
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 16, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 21, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 26, score = 0.590476
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 31, score = 0.685714
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 36, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 41, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 46, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 51, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 56, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 61, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 66, score = 0.580952
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 71, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 76, score = 0.742857
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 81, score = 0.685714
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 86, score = 0.695238
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 91, score = 0.857143
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+training data size = 168
+Length of new condensed training data set: 1
+k = 96, score = 0.695238
+Running with data/ecoli_data_1.txt
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 1, score = 0.549254
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 6, score = 0.495522
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 11, score = 0.546269
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 16, score = 0.531343
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 6
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 21, score = 0.507463
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 26, score = 0.531343
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 7
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 31, score = 0.546269
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 7
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+k = 36, score = 0.573134
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 41, score = 0.546269
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 46, score = 0.573134
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 7
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 51, score = 0.531343
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 56, score = 0.546269
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 61, score = 0.573134
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 66, score = 0.507463
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 9
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 71, score = 0.519403
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+k = 76, score = 0.558209
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+k = 81, score = 0.558209
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 86, score = 0.531343
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 91, score = 0.522388
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 96, score = 0.495522
+Running with data/ecoli_data_2.txt
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 1, score = 0.785075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 6, score = 0.770149
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+k = 11, score = 0.525373
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 16, score = 0.671642
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 7
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 21, score = 0.770149
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 26, score = 0.770149
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 31, score = 0.635821
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 36, score = 0.770149
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 41, score = 0.770149
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 46, score = 0.770149
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 51, score = 0.770149
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 56, score = 0.659701
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+Length of new condensed training data set: 2
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 61, score = 0.770149
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 66, score = 0.659701
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+k = 71, score = 0.770149
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 76, score = 0.635821
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 81, score = 0.770149
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 86, score = 0.659701
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 7
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 91, score = 0.659701
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 96, score = 0.770149
+Running with data/ecoli_data_3.txt
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 1, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 6, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 11, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 16, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 21, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 26, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 31, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 36, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 41, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 46, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 51, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 56, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 61, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 66, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 71, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 76, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 81, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 86, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 91, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 96, score = 0.994030
+Running with data/ecoli_data_4.txt
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 11
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 13
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 13
+training data size = 269
+Length of new condensed training data set: 1
+k = 1, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 25
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 13
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 19
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 7
+k = 6, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 9
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 25
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 19
+k = 11, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 143
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 25
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 33
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 19
+k = 16, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 17
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 31
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 9
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 22
+k = 21, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 13
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 19
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 19
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 79
+k = 26, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 18
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 51
+k = 31, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 19
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 29
+training data size = 269
+Length of new condensed training data set: 1
+k = 36, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 39
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 17
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 37
+k = 41, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 17
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 43
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 37
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 17
+k = 46, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 43
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 29
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 7
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+k = 51, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 13
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 13
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 41
+k = 56, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 17
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 13
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 13
+k = 61, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 9
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 7
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 27
+k = 66, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 39
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 19
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 9
+k = 71, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 42
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 13
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 79
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+k = 76, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 31
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 48
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 51
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 15
+k = 81, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 16
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 22
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 53
+k = 86, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 7
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 15
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+k = 91, score = 0.994030
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 13
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 33
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+k = 96, score = 0.994030
+Running with data/ecoli_data_5.txt
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 1, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+k = 6, score = 0.895522
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 11, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 16, score = 0.743284
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 21, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 26, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+k = 31, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 36, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 41, score = 0.895522
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 46, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 51, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+k = 56, score = 0.895522
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 61, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 66, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 4
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+k = 71, score = 0.895522
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 76, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 81, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 86, score = 0.895522
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 91, score = 0.743284
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 96, score = 0.895522
+Running with data/ecoli_data_6.txt
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 1, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 6, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 11, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 16, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 21, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 26, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 31, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 36, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 41, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 46, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 51, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 56, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 61, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 66, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 71, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 76, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 81, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 86, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 91, score = 1.000000
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 96, score = 1.000000
+Running with data/ecoli_data_7.txt
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 1, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 6, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 11, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 16, score = 0.791045
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 21, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 26, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 31, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 36, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 41, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 46, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 51, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 56, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 61, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 66, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 71, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 76, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 81, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 86, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 91, score = 0.985075
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 96, score = 0.985075
+Running with data/ecoli_data_8.txt
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+Length of new condensed training data set: 2
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 1, score = 0.844776
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 6, score = 0.844776
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 11, score = 0.710448
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 16, score = 0.716418
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 21, score = 0.844776
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 26, score = 0.716418
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 5
+training data size = 269
+Length of new condensed training data set: 1
+k = 31, score = 0.844776
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 8
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 36, score = 0.844776
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 41, score = 0.564179
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 46, score = 0.844776
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 51, score = 0.844776
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 56, score = 0.716418
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 7
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 61, score = 0.844776
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 66, score = 0.844776
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 71, score = 0.844776
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 76, score = 0.844776
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 81, score = 0.844776
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 86, score = 0.844776
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+k = 91, score = 0.844776
+training data size = 269
+classes don't match, adding instance
+classes don't match, adding instance
+Length of new condensed training data set: 3
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+training data size = 269
+Length of new condensed training data set: 1
+k = 96, score = 0.692537
+
+Process finished with exit code 0

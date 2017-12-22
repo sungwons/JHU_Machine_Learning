@@ -1,0 +1,1497 @@
+Running with data/computer_data.txt
+Chose random training instances to serve as hidden node centers
+Initialized weight vector
+Started gradient descent
+Weights were updated by 5.182938 last iteration
+Started gradient descent
+Weights were updated by 4.830514 last iteration
+Started gradient descent
+Weights were updated by 4.502054 last iteration
+Started gradient descent
+Weights were updated by 4.195929 last iteration
+Started gradient descent
+Weights were updated by 3.910619 last iteration
+Started gradient descent
+Weights were updated by 3.644709 last iteration
+Started gradient descent
+Weights were updated by 3.396880 last iteration
+Started gradient descent
+Weights were updated by 3.165903 last iteration
+Started gradient descent
+Weights were updated by 2.950631 last iteration
+Started gradient descent
+Weights were updated by 2.749997 last iteration
+Started gradient descent
+Weights were updated by 2.563006 last iteration
+Started gradient descent
+Weights were updated by 2.388730 last iteration
+Started gradient descent
+Weights were updated by 2.226304 last iteration
+Started gradient descent
+Weights were updated by 2.074922 last iteration
+Started gradient descent
+Weights were updated by 1.933834 last iteration
+Started gradient descent
+Weights were updated by 1.802339 last iteration
+Started gradient descent
+Weights were updated by 1.679785 last iteration
+Started gradient descent
+Weights were updated by 1.565565 last iteration
+Started gradient descent
+Weights were updated by 1.459112 last iteration
+Started gradient descent
+Weights were updated by 1.359897 last iteration
+Started gradient descent
+Weights were updated by 1.267428 last iteration
+Started gradient descent
+Weights were updated by 1.181247 last iteration
+Started gradient descent
+Weights were updated by 1.100926 last iteration
+Started gradient descent
+Weights were updated by 1.026066 last iteration
+Started gradient descent
+Weights were updated by 0.956297 last iteration
+Started gradient descent
+Weights were updated by 0.891272 last iteration
+Started gradient descent
+Weights were updated by 0.830668 last iteration
+Started gradient descent
+Weights were updated by 0.774185 last iteration
+Started gradient descent
+Weights were updated by 0.721543 last iteration
+Started gradient descent
+Weights were updated by 0.672480 last iteration
+Started gradient descent
+Weights were updated by 0.626754 last iteration
+Started gradient descent
+Weights were updated by 0.584136 last iteration
+Started gradient descent
+Weights were updated by 0.544417 last iteration
+Started gradient descent
+Weights were updated by 0.507398 last iteration
+Started gradient descent
+Weights were updated by 0.472897 last iteration
+Started gradient descent
+Weights were updated by 0.440741 last iteration
+Started gradient descent
+Weights were updated by 0.410772 last iteration
+Started gradient descent
+Weights were updated by 0.382841 last iteration
+Started gradient descent
+Weights were updated by 0.356809 last iteration
+Started gradient descent
+Weights were updated by 0.332547 last iteration
+Started gradient descent
+Weights were updated by 0.309935 last iteration
+Started gradient descent
+Weights were updated by 0.288860 last iteration
+Started gradient descent
+Weights were updated by 0.269219 last iteration
+Started gradient descent
+Weights were updated by 0.250913 last iteration
+Started gradient descent
+Weights were updated by 0.233851 last iteration
+Started gradient descent
+Weights were updated by 0.217950 last iteration
+Started gradient descent
+Weights were updated by 0.203130 last iteration
+Started gradient descent
+Weights were updated by 0.189318 last iteration
+Started gradient descent
+Weights were updated by 0.176445 last iteration
+Started gradient descent
+Weights were updated by 0.164447 last iteration
+Started gradient descent
+Weights were updated by 0.153265 last iteration
+Started gradient descent
+Weights were updated by 0.142844 last iteration
+Started gradient descent
+Weights were updated by 0.133131 last iteration
+Started gradient descent
+Weights were updated by 0.124078 last iteration
+Started gradient descent
+Weights were updated by 0.115641 last iteration
+Started gradient descent
+Weights were updated by 0.107778 last iteration
+Started gradient descent
+Weights were updated by 0.100450 last iteration
+Started gradient descent
+Weights were updated by 0.093619 last iteration
+Started gradient descent
+Weights were updated by 0.087254 last iteration
+Started gradient descent
+Weights were updated by 0.081321 last iteration
+Started gradient descent
+Weights were updated by 0.075791 last iteration
+Started gradient descent
+Weights were updated by 0.070637 last iteration
+Started gradient descent
+Weights were updated by 0.065834 last iteration
+Started gradient descent
+Weights were updated by 0.061358 last iteration
+Started gradient descent
+Weights were updated by 0.057186 last iteration
+Started gradient descent
+Weights were updated by 0.053297 last iteration
+Started gradient descent
+Weights were updated by 0.049673 last iteration
+Started gradient descent
+Weights were updated by 0.046296 last iteration
+Started gradient descent
+Weights were updated by 0.043148 last iteration
+Started gradient descent
+Weights were updated by 0.040214 last iteration
+Started gradient descent
+Weights were updated by 0.037479 last iteration
+Started gradient descent
+Weights were updated by 0.034931 last iteration
+Started gradient descent
+Weights were updated by 0.032556 last iteration
+Started gradient descent
+Weights were updated by 0.030342 last iteration
+Started gradient descent
+Weights were updated by 0.028279 last iteration
+Started gradient descent
+Weights were updated by 0.026356 last iteration
+Started gradient descent
+Weights were updated by 0.024564 last iteration
+Started gradient descent
+Weights were updated by 0.022894 last iteration
+Started gradient descent
+Weights were updated by 0.021337 last iteration
+Started gradient descent
+Weights were updated by 0.019886 last iteration
+Started gradient descent
+Weights were updated by 0.018534 last iteration
+Started gradient descent
+Weights were updated by 0.017274 last iteration
+Started gradient descent
+Weights were updated by 0.016099 last iteration
+Started gradient descent
+Weights were updated by 0.015004 last iteration
+Started gradient descent
+Weights were updated by 0.013984 last iteration
+Started gradient descent
+Weights were updated by 0.013033 last iteration
+Started gradient descent
+Weights were updated by 0.012147 last iteration
+Started gradient descent
+Weights were updated by 0.011321 last iteration
+Started gradient descent
+Weights were updated by 0.010551 last iteration
+Started gradient descent
+Found weights: [ 30.52413191  68.52427685 -10.47640016  34.52373405 -95.47595948
+   8.52364539  41.52519672  88.52369064 -40.4748033   30.52511558
+  10.52377596  87.52536829 -29.47599463 -70.47635238 -29.4759591
+  35.52386086 -62.47570605]
+Chose random training instances to serve as hidden node centers
+Initialized weight vector
+Started gradient descent
+Weights were updated by 4.807938 last iteration
+Started gradient descent
+Weights were updated by 4.481009 last iteration
+Started gradient descent
+Weights were updated by 4.176310 last iteration
+Started gradient descent
+Weights were updated by 3.892331 last iteration
+Started gradient descent
+Weights were updated by 3.627661 last iteration
+Started gradient descent
+Weights were updated by 3.380988 last iteration
+Started gradient descent
+Weights were updated by 3.151089 last iteration
+Started gradient descent
+Weights were updated by 2.936822 last iteration
+Started gradient descent
+Weights were updated by 2.737125 last iteration
+Started gradient descent
+Weights were updated by 2.551006 last iteration
+Started gradient descent
+Weights were updated by 2.377544 last iteration
+Started gradient descent
+Weights were updated by 2.215876 last iteration
+Started gradient descent
+Weights were updated by 2.065202 last iteration
+Started gradient descent
+Weights were updated by 1.924773 last iteration
+Started gradient descent
+Weights were updated by 1.793892 last iteration
+Started gradient descent
+Weights were updated by 1.671912 last iteration
+Started gradient descent
+Weights were updated by 1.558226 last iteration
+Started gradient descent
+Weights were updated by 1.452270 last iteration
+Started gradient descent
+Weights were updated by 1.353519 last iteration
+Started gradient descent
+Weights were updated by 1.261483 last iteration
+Started gradient descent
+Weights were updated by 1.175705 last iteration
+Started gradient descent
+Weights were updated by 1.095759 last iteration
+Started gradient descent
+Weights were updated by 1.021250 last iteration
+Started gradient descent
+Weights were updated by 0.951808 last iteration
+Started gradient descent
+Weights were updated by 0.887087 last iteration
+Started gradient descent
+Weights were updated by 0.826767 last iteration
+Started gradient descent
+Weights were updated by 0.770549 last iteration
+Started gradient descent
+Weights were updated by 0.718153 last iteration
+Started gradient descent
+Weights were updated by 0.669320 last iteration
+Started gradient descent
+Weights were updated by 0.623808 last iteration
+Started gradient descent
+Weights were updated by 0.581391 last iteration
+Started gradient descent
+Weights were updated by 0.541857 last iteration
+Started gradient descent
+Weights were updated by 0.505012 last iteration
+Started gradient descent
+Weights were updated by 0.470673 last iteration
+Started gradient descent
+Weights were updated by 0.438668 last iteration
+Started gradient descent
+Weights were updated by 0.408839 last iteration
+Started gradient descent
+Weights were updated by 0.381039 last iteration
+Started gradient descent
+Weights were updated by 0.355129 last iteration
+Started gradient descent
+Weights were updated by 0.330981 last iteration
+Started gradient descent
+Weights were updated by 0.308475 last iteration
+Started gradient descent
+Weights were updated by 0.287500 last iteration
+Started gradient descent
+Weights were updated by 0.267951 last iteration
+Started gradient descent
+Weights were updated by 0.249730 last iteration
+Started gradient descent
+Weights were updated by 0.232749 last iteration
+Started gradient descent
+Weights were updated by 0.216923 last iteration
+Started gradient descent
+Weights were updated by 0.202173 last iteration
+Started gradient descent
+Weights were updated by 0.188425 last iteration
+Started gradient descent
+Weights were updated by 0.175613 last iteration
+Started gradient descent
+Weights were updated by 0.163672 last iteration
+Started gradient descent
+Weights were updated by 0.152542 last iteration
+Started gradient descent
+Weights were updated by 0.142170 last iteration
+Started gradient descent
+Weights were updated by 0.132503 last iteration
+Started gradient descent
+Weights were updated by 0.123493 last iteration
+Started gradient descent
+Weights were updated by 0.115095 last iteration
+Started gradient descent
+Weights were updated by 0.107269 last iteration
+Started gradient descent
+Weights were updated by 0.099975 last iteration
+Started gradient descent
+Weights were updated by 0.093177 last iteration
+Started gradient descent
+Weights were updated by 0.086841 last iteration
+Started gradient descent
+Weights were updated by 0.080936 last iteration
+Started gradient descent
+Weights were updated by 0.075433 last iteration
+Started gradient descent
+Weights were updated by 0.070304 last iteration
+Started gradient descent
+Weights were updated by 0.065523 last iteration
+Started gradient descent
+Weights were updated by 0.061068 last iteration
+Started gradient descent
+Weights were updated by 0.056915 last iteration
+Started gradient descent
+Weights were updated by 0.053045 last iteration
+Started gradient descent
+Weights were updated by 0.049438 last iteration
+Started gradient descent
+Weights were updated by 0.046076 last iteration
+Started gradient descent
+Weights were updated by 0.042943 last iteration
+Started gradient descent
+Weights were updated by 0.040023 last iteration
+Started gradient descent
+Weights were updated by 0.037302 last iteration
+Started gradient descent
+Weights were updated by 0.034765 last iteration
+Started gradient descent
+Weights were updated by 0.032401 last iteration
+Started gradient descent
+Weights were updated by 0.030198 last iteration
+Started gradient descent
+Weights were updated by 0.028145 last iteration
+Started gradient descent
+Weights were updated by 0.026231 last iteration
+Started gradient descent
+Weights were updated by 0.024447 last iteration
+Started gradient descent
+Weights were updated by 0.022785 last iteration
+Started gradient descent
+Weights were updated by 0.021236 last iteration
+Started gradient descent
+Weights were updated by 0.019792 last iteration
+Started gradient descent
+Weights were updated by 0.018446 last iteration
+Started gradient descent
+Weights were updated by 0.017192 last iteration
+Started gradient descent
+Weights were updated by 0.016023 last iteration
+Started gradient descent
+Weights were updated by 0.014933 last iteration
+Started gradient descent
+Weights were updated by 0.013918 last iteration
+Started gradient descent
+Weights were updated by 0.012971 last iteration
+Started gradient descent
+Weights were updated by 0.012089 last iteration
+Started gradient descent
+Weights were updated by 0.011267 last iteration
+Started gradient descent
+Weights were updated by 0.010501 last iteration
+Started gradient descent
+Found weights: [ 83.15245518  -2.84888509 -92.84754868  79.15113836  89.1514228
+ -69.84808448 -55.84808891  -2.84901984  48.15149046 -48.84920692
+   5.15108427   0.15086105 -15.84920592  50.15096148  21.15079918
+  97.15192259 -79.84891575]
+Chose random training instances to serve as hidden node centers
+Initialized weight vector
+Started gradient descent
+Weights were updated by 18.590132 last iteration
+Started gradient descent
+Weights were updated by 17.326048 last iteration
+Started gradient descent
+Weights were updated by 16.147918 last iteration
+Started gradient descent
+Weights were updated by 15.049898 last iteration
+Started gradient descent
+Weights were updated by 14.026541 last iteration
+Started gradient descent
+Weights were updated by 13.072769 last iteration
+Started gradient descent
+Weights were updated by 12.183852 last iteration
+Started gradient descent
+Weights were updated by 11.355379 last iteration
+Started gradient descent
+Weights were updated by 10.583241 last iteration
+Started gradient descent
+Weights were updated by 9.863606 last iteration
+Started gradient descent
+Weights were updated by 9.192904 last iteration
+Started gradient descent
+Weights were updated by 8.567808 last iteration
+Started gradient descent
+Weights were updated by 7.985218 last iteration
+Started gradient descent
+Weights were updated by 7.442242 last iteration
+Started gradient descent
+Weights were updated by 6.936187 last iteration
+Started gradient descent
+Weights were updated by 6.464543 last iteration
+Started gradient descent
+Weights were updated by 6.024970 last iteration
+Started gradient descent
+Weights were updated by 5.615286 last iteration
+Started gradient descent
+Weights were updated by 5.233460 last iteration
+Started gradient descent
+Weights were updated by 4.877597 last iteration
+Started gradient descent
+Weights were updated by 4.545932 last iteration
+Started gradient descent
+Weights were updated by 4.236820 last iteration
+Started gradient descent
+Weights were updated by 3.948726 last iteration
+Started gradient descent
+Weights were updated by 3.680222 last iteration
+Started gradient descent
+Weights were updated by 3.429976 last iteration
+Started gradient descent
+Weights were updated by 3.196746 last iteration
+Started gradient descent
+Weights were updated by 2.979374 last iteration
+Started gradient descent
+Weights were updated by 2.776784 last iteration
+Started gradient descent
+Weights were updated by 2.587969 last iteration
+Started gradient descent
+Weights were updated by 2.411994 last iteration
+Started gradient descent
+Weights were updated by 2.247984 last iteration
+Started gradient descent
+Weights were updated by 2.095126 last iteration
+Started gradient descent
+Weights were updated by 1.952663 last iteration
+Started gradient descent
+Weights were updated by 1.819886 last iteration
+Started gradient descent
+Weights were updated by 1.696138 last iteration
+Started gradient descent
+Weights were updated by 1.580805 last iteration
+Started gradient descent
+Weights were updated by 1.473314 last iteration
+Started gradient descent
+Weights were updated by 1.373132 last iteration
+Started gradient descent
+Weights were updated by 1.279762 last iteration
+Started gradient descent
+Weights were updated by 1.192742 last iteration
+Started gradient descent
+Weights were updated by 1.111638 last iteration
+Started gradient descent
+Weights were updated by 1.036049 last iteration
+Started gradient descent
+Weights were updated by 0.965600 last iteration
+Started gradient descent
+Weights were updated by 0.899942 last iteration
+Started gradient descent
+Weights were updated by 0.838748 last iteration
+Started gradient descent
+Weights were updated by 0.781715 last iteration
+Started gradient descent
+Weights were updated by 0.728560 last iteration
+Started gradient descent
+Weights were updated by 0.679020 last iteration
+Started gradient descent
+Weights were updated by 0.632848 last iteration
+Started gradient descent
+Weights were updated by 0.589816 last iteration
+Started gradient descent
+Weights were updated by 0.549710 last iteration
+Started gradient descent
+Weights were updated by 0.512331 last iteration
+Started gradient descent
+Weights were updated by 0.477494 last iteration
+Started gradient descent
+Weights were updated by 0.445025 last iteration
+Started gradient descent
+Weights were updated by 0.414765 last iteration
+Started gradient descent
+Weights were updated by 0.386562 last iteration
+Started gradient descent
+Weights were updated by 0.360276 last iteration
+Started gradient descent
+Weights were updated by 0.335778 last iteration
+Started gradient descent
+Weights were updated by 0.312946 last iteration
+Started gradient descent
+Weights were updated by 0.291667 last iteration
+Started gradient descent
+Weights were updated by 0.271834 last iteration
+Started gradient descent
+Weights were updated by 0.253350 last iteration
+Started gradient descent
+Weights were updated by 0.236123 last iteration
+Started gradient descent
+Weights were updated by 0.220067 last iteration
+Started gradient descent
+Weights were updated by 0.205103 last iteration
+Started gradient descent
+Weights were updated by 0.191156 last iteration
+Started gradient descent
+Weights were updated by 0.178158 last iteration
+Started gradient descent
+Weights were updated by 0.166044 last iteration
+Started gradient descent
+Weights were updated by 0.154753 last iteration
+Started gradient descent
+Weights were updated by 0.144230 last iteration
+Started gradient descent
+Weights were updated by 0.134423 last iteration
+Started gradient descent
+Weights were updated by 0.125283 last iteration
+Started gradient descent
+Weights were updated by 0.116764 last iteration
+Started gradient descent
+Weights were updated by 0.108824 last iteration
+Started gradient descent
+Weights were updated by 0.101424 last iteration
+Started gradient descent
+Weights were updated by 0.094528 last iteration
+Started gradient descent
+Weights were updated by 0.088100 last iteration
+Started gradient descent
+Weights were updated by 0.082109 last iteration
+Started gradient descent
+Weights were updated by 0.076526 last iteration
+Started gradient descent
+Weights were updated by 0.071323 last iteration
+Started gradient descent
+Weights were updated by 0.066473 last iteration
+Started gradient descent
+Weights were updated by 0.061953 last iteration
+Started gradient descent
+Weights were updated by 0.057740 last iteration
+Started gradient descent
+Weights were updated by 0.053814 last iteration
+Started gradient descent
+Weights were updated by 0.050155 last iteration
+Started gradient descent
+Weights were updated by 0.046744 last iteration
+Started gradient descent
+Weights were updated by 0.043566 last iteration
+Started gradient descent
+Weights were updated by 0.040604 last iteration
+Started gradient descent
+Weights were updated by 0.037843 last iteration
+Started gradient descent
+Weights were updated by 0.035269 last iteration
+Started gradient descent
+Weights were updated by 0.032871 last iteration
+Started gradient descent
+Weights were updated by 0.030636 last iteration
+Started gradient descent
+Weights were updated by 0.028553 last iteration
+Started gradient descent
+Weights were updated by 0.026611 last iteration
+Started gradient descent
+Weights were updated by 0.024802 last iteration
+Started gradient descent
+Weights were updated by 0.023115 last iteration
+Started gradient descent
+Weights were updated by 0.021544 last iteration
+Started gradient descent
+Weights were updated by 0.020079 last iteration
+Started gradient descent
+Weights were updated by 0.018713 last iteration
+Started gradient descent
+Weights were updated by 0.017441 last iteration
+Started gradient descent
+Weights were updated by 0.016255 last iteration
+Started gradient descent
+Weights were updated by 0.015150 last iteration
+Started gradient descent
+Weights were updated by 0.014119 last iteration
+Started gradient descent
+Weights were updated by 0.013159 last iteration
+Started gradient descent
+Weights were updated by 0.012265 last iteration
+Started gradient descent
+Weights were updated by 0.011431 last iteration
+Started gradient descent
+Weights were updated by 0.010653 last iteration
+Started gradient descent
+Found weights: [-71.92578321 -15.92539775  30.07397226  77.07465244 -64.92539775
+ -59.92623185  77.0737516   35.0749204    9.07311929  84.07309865
+  66.07327375 -37.92461687  -5.92534726  47.07309873 -76.92572918
+  28.07310027 -20.92668749]
+Chose random training instances to serve as hidden node centers
+Initialized weight vector
+Started gradient descent
+Weights were updated by 7.606055 last iteration
+Started gradient descent
+Weights were updated by 7.088861 last iteration
+Started gradient descent
+Weights were updated by 6.606835 last iteration
+Started gradient descent
+Weights were updated by 6.157586 last iteration
+Started gradient descent
+Weights were updated by 5.738885 last iteration
+Started gradient descent
+Weights were updated by 5.348654 last iteration
+Started gradient descent
+Weights were updated by 4.984958 last iteration
+Started gradient descent
+Weights were updated by 4.645993 last iteration
+Started gradient descent
+Weights were updated by 4.330076 last iteration
+Started gradient descent
+Weights were updated by 4.035642 last iteration
+Started gradient descent
+Weights were updated by 3.761227 last iteration
+Started gradient descent
+Weights were updated by 3.505473 last iteration
+Started gradient descent
+Weights were updated by 3.267109 last iteration
+Started gradient descent
+Weights were updated by 3.044953 last iteration
+Started gradient descent
+Weights were updated by 2.837904 last iteration
+Started gradient descent
+Weights were updated by 2.644933 last iteration
+Started gradient descent
+Weights were updated by 2.465084 last iteration
+Started gradient descent
+Weights were updated by 2.297464 last iteration
+Started gradient descent
+Weights were updated by 2.141242 last iteration
+Started gradient descent
+Weights were updated by 1.995642 last iteration
+Started gradient descent
+Weights were updated by 1.859943 last iteration
+Started gradient descent
+Weights were updated by 1.733472 last iteration
+Started gradient descent
+Weights were updated by 1.615600 last iteration
+Started gradient descent
+Weights were updated by 1.505743 last iteration
+Started gradient descent
+Weights were updated by 1.403356 last iteration
+Started gradient descent
+Weights were updated by 1.307931 last iteration
+Started gradient descent
+Weights were updated by 1.218995 last iteration
+Started gradient descent
+Weights were updated by 1.136106 last iteration
+Started gradient descent
+Weights were updated by 1.058853 last iteration
+Started gradient descent
+Weights were updated by 0.986854 last iteration
+Started gradient descent
+Weights were updated by 0.919750 last iteration
+Started gradient descent
+Weights were updated by 0.857209 last iteration
+Started gradient descent
+Weights were updated by 0.798921 last iteration
+Started gradient descent
+Weights were updated by 0.744596 last iteration
+Started gradient descent
+Weights were updated by 0.693966 last iteration
+Started gradient descent
+Weights were updated by 0.646778 last iteration
+Started gradient descent
+Weights were updated by 0.602798 last iteration
+Started gradient descent
+Weights were updated by 0.561809 last iteration
+Started gradient descent
+Weights were updated by 0.523608 last iteration
+Started gradient descent
+Weights were updated by 0.488004 last iteration
+Started gradient descent
+Weights were updated by 0.454821 last iteration
+Started gradient descent
+Weights were updated by 0.423894 last iteration
+Started gradient descent
+Weights were updated by 0.395070 last iteration
+Started gradient descent
+Weights were updated by 0.368206 last iteration
+Started gradient descent
+Weights were updated by 0.343169 last iteration
+Started gradient descent
+Weights were updated by 0.319834 last iteration
+Started gradient descent
+Weights were updated by 0.298086 last iteration
+Started gradient descent
+Weights were updated by 0.277817 last iteration
+Started gradient descent
+Weights were updated by 0.258926 last iteration
+Started gradient descent
+Weights were updated by 0.241320 last iteration
+Started gradient descent
+Weights were updated by 0.224911 last iteration
+Started gradient descent
+Weights were updated by 0.209617 last iteration
+Started gradient descent
+Weights were updated by 0.195364 last iteration
+Started gradient descent
+Weights were updated by 0.182080 last iteration
+Started gradient descent
+Weights were updated by 0.169699 last iteration
+Started gradient descent
+Weights were updated by 0.158159 last iteration
+Started gradient descent
+Weights were updated by 0.147405 last iteration
+Started gradient descent
+Weights were updated by 0.137382 last iteration
+Started gradient descent
+Weights were updated by 0.128040 last iteration
+Started gradient descent
+Weights were updated by 0.119334 last iteration
+Started gradient descent
+Weights were updated by 0.111219 last iteration
+Started gradient descent
+Weights were updated by 0.103657 last iteration
+Started gradient descent
+Weights were updated by 0.096608 last iteration
+Started gradient descent
+Weights were updated by 0.090039 last iteration
+Started gradient descent
+Weights were updated by 0.083917 last iteration
+Started gradient descent
+Weights were updated by 0.078211 last iteration
+Started gradient descent
+Weights were updated by 0.072892 last iteration
+Started gradient descent
+Weights were updated by 0.067936 last iteration
+Started gradient descent
+Weights were updated by 0.063316 last iteration
+Started gradient descent
+Weights were updated by 0.059011 last iteration
+Started gradient descent
+Weights were updated by 0.054998 last iteration
+Started gradient descent
+Weights were updated by 0.051259 last iteration
+Started gradient descent
+Weights were updated by 0.047773 last iteration
+Started gradient descent
+Weights were updated by 0.044525 last iteration
+Started gradient descent
+Weights were updated by 0.041497 last iteration
+Started gradient descent
+Weights were updated by 0.038675 last iteration
+Started gradient descent
+Weights were updated by 0.036046 last iteration
+Started gradient descent
+Weights were updated by 0.033595 last iteration
+Started gradient descent
+Weights were updated by 0.031310 last iteration
+Started gradient descent
+Weights were updated by 0.029181 last iteration
+Started gradient descent
+Weights were updated by 0.027197 last iteration
+Started gradient descent
+Weights were updated by 0.025348 last iteration
+Started gradient descent
+Weights were updated by 0.023624 last iteration
+Started gradient descent
+Weights were updated by 0.022018 last iteration
+Started gradient descent
+Weights were updated by 0.020521 last iteration
+Started gradient descent
+Weights were updated by 0.019125 last iteration
+Started gradient descent
+Weights were updated by 0.017825 last iteration
+Started gradient descent
+Weights were updated by 0.016613 last iteration
+Started gradient descent
+Weights were updated by 0.015483 last iteration
+Started gradient descent
+Weights were updated by 0.014430 last iteration
+Started gradient descent
+Weights were updated by 0.013449 last iteration
+Started gradient descent
+Weights were updated by 0.012535 last iteration
+Started gradient descent
+Weights were updated by 0.011682 last iteration
+Started gradient descent
+Weights were updated by 0.010888 last iteration
+Started gradient descent
+Weights were updated by 0.010147 last iteration
+Started gradient descent
+Found weights: [ 19.42839701 -61.57259968  55.42734179  -4.57184099 -25.5726332
+  26.42761852  50.42778586   9.42737934 -58.57174412 -70.57262966
+  72.42761937  66.4273083  -72.57187169  63.42765281 -22.57217807
+  83.42825583 -38.57187177]
+Chose random training instances to serve as hidden node centers
+Initialized weight vector
+Started gradient descent
+Weights were updated by 19.523422 last iteration
+Started gradient descent
+Weights were updated by 18.195878 last iteration
+Started gradient descent
+Weights were updated by 16.958603 last iteration
+Started gradient descent
+Weights were updated by 15.805460 last iteration
+Started gradient descent
+Weights were updated by 14.730728 last iteration
+Started gradient descent
+Weights were updated by 13.729075 last iteration
+Started gradient descent
+Weights were updated by 12.795532 last iteration
+Started gradient descent
+Weights were updated by 11.925468 last iteration
+Started gradient descent
+Weights were updated by 11.114566 last iteration
+Started gradient descent
+Weights were updated by 10.358803 last iteration
+Started gradient descent
+Weights were updated by 9.654430 last iteration
+Started gradient descent
+Weights were updated by 8.997953 last iteration
+Started gradient descent
+Weights were updated by 8.386114 last iteration
+Started gradient descent
+Weights were updated by 7.815879 last iteration
+Started gradient descent
+Weights were updated by 7.284419 last iteration
+Started gradient descent
+Weights were updated by 6.789096 last iteration
+Started gradient descent
+Weights were updated by 6.327455 last iteration
+Started gradient descent
+Weights were updated by 5.897204 last iteration
+Started gradient descent
+Weights were updated by 5.496208 last iteration
+Started gradient descent
+Weights were updated by 5.122480 last iteration
+Started gradient descent
+Weights were updated by 4.774164 last iteration
+Started gradient descent
+Weights were updated by 4.449533 last iteration
+Started gradient descent
+Weights were updated by 4.146975 last iteration
+Started gradient descent
+Weights were updated by 3.864991 last iteration
+Started gradient descent
+Weights were updated by 3.602182 last iteration
+Started gradient descent
+Weights were updated by 3.357242 last iteration
+Started gradient descent
+Weights were updated by 3.128958 last iteration
+Started gradient descent
+Weights were updated by 2.916197 last iteration
+Started gradient descent
+Weights were updated by 2.717903 last iteration
+Started gradient descent
+Weights were updated by 2.533092 last iteration
+Started gradient descent
+Weights were updated by 2.360848 last iteration
+Started gradient descent
+Weights were updated by 2.200316 last iteration
+Started gradient descent
+Weights were updated by 2.050700 last iteration
+Started gradient descent
+Weights were updated by 1.911258 last iteration
+Started gradient descent
+Weights were updated by 1.781297 last iteration
+Started gradient descent
+Weights were updated by 1.660173 last iteration
+Started gradient descent
+Weights were updated by 1.547285 last iteration
+Started gradient descent
+Weights were updated by 1.442074 last iteration
+Started gradient descent
+Weights were updated by 1.344016 last iteration
+Started gradient descent
+Weights were updated by 1.252627 last iteration
+Started gradient descent
+Weights were updated by 1.167451 last iteration
+Started gradient descent
+Weights were updated by 1.088067 last iteration
+Started gradient descent
+Weights were updated by 1.014081 last iteration
+Started gradient descent
+Weights were updated by 0.945126 last iteration
+Started gradient descent
+Weights were updated by 0.880860 last iteration
+Started gradient descent
+Weights were updated by 0.820964 last iteration
+Started gradient descent
+Weights were updated by 0.765140 last iteration
+Started gradient descent
+Weights were updated by 0.713113 last iteration
+Started gradient descent
+Weights were updated by 0.664623 last iteration
+Started gradient descent
+Weights were updated by 0.619430 last iteration
+Started gradient descent
+Weights were updated by 0.577310 last iteration
+Started gradient descent
+Weights were updated by 0.538055 last iteration
+Started gradient descent
+Weights were updated by 0.501468 last iteration
+Started gradient descent
+Weights were updated by 0.467370 last iteration
+Started gradient descent
+Weights were updated by 0.435590 last iteration
+Started gradient descent
+Weights were updated by 0.405971 last iteration
+Started gradient descent
+Weights were updated by 0.378366 last iteration
+Started gradient descent
+Weights were updated by 0.352638 last iteration
+Started gradient descent
+Weights were updated by 0.328659 last iteration
+Started gradient descent
+Weights were updated by 0.306311 last iteration
+Started gradient descent
+Weights were updated by 0.285483 last iteration
+Started gradient descent
+Weights were updated by 0.266071 last iteration
+Started gradient descent
+Weights were updated by 0.247979 last iteration
+Started gradient descent
+Weights were updated by 0.231117 last iteration
+Started gradient descent
+Weights were updated by 0.215401 last iteration
+Started gradient descent
+Weights were updated by 0.200755 last iteration
+Started gradient descent
+Weights were updated by 0.187104 last iteration
+Started gradient descent
+Weights were updated by 0.174381 last iteration
+Started gradient descent
+Weights were updated by 0.162524 last iteration
+Started gradient descent
+Weights were updated by 0.151472 last iteration
+Started gradient descent
+Weights were updated by 0.141173 last iteration
+Started gradient descent
+Weights were updated by 0.131573 last iteration
+Started gradient descent
+Weights were updated by 0.122627 last iteration
+Started gradient descent
+Weights were updated by 0.114288 last iteration
+Started gradient descent
+Weights were updated by 0.106517 last iteration
+Started gradient descent
+Weights were updated by 0.099274 last iteration
+Started gradient descent
+Weights were updated by 0.092524 last iteration
+Started gradient descent
+Weights were updated by 0.086232 last iteration
+Started gradient descent
+Weights were updated by 0.080369 last iteration
+Started gradient descent
+Weights were updated by 0.074904 last iteration
+Started gradient descent
+Weights were updated by 0.069811 last iteration
+Started gradient descent
+Weights were updated by 0.065064 last iteration
+Started gradient descent
+Weights were updated by 0.060640 last iteration
+Started gradient descent
+Weights were updated by 0.056516 last iteration
+Started gradient descent
+Weights were updated by 0.052673 last iteration
+Started gradient descent
+Weights were updated by 0.049092 last iteration
+Started gradient descent
+Weights were updated by 0.045753 last iteration
+Started gradient descent
+Weights were updated by 0.042642 last iteration
+Started gradient descent
+Weights were updated by 0.039743 last iteration
+Started gradient descent
+Weights were updated by 0.037040 last iteration
+Started gradient descent
+Weights were updated by 0.034522 last iteration
+Started gradient descent
+Weights were updated by 0.032174 last iteration
+Started gradient descent
+Weights were updated by 0.029987 last iteration
+Started gradient descent
+Weights were updated by 0.027948 last iteration
+Started gradient descent
+Weights were updated by 0.026047 last iteration
+Started gradient descent
+Weights were updated by 0.024276 last iteration
+Started gradient descent
+Weights were updated by 0.022625 last iteration
+Started gradient descent
+Weights were updated by 0.021087 last iteration
+Started gradient descent
+Weights were updated by 0.019653 last iteration
+Started gradient descent
+Weights were updated by 0.018317 last iteration
+Started gradient descent
+Weights were updated by 0.017071 last iteration
+Started gradient descent
+Weights were updated by 0.015910 last iteration
+Started gradient descent
+Weights were updated by 0.014828 last iteration
+Started gradient descent
+Weights were updated by 0.013820 last iteration
+Started gradient descent
+Weights were updated by 0.012880 last iteration
+Started gradient descent
+Weights were updated by 0.012005 last iteration
+Started gradient descent
+Weights were updated by 0.011188 last iteration
+Started gradient descent
+Weights were updated by 0.010428 last iteration
+Started gradient descent
+Found weights: [ 65.11780511  64.11778246 -15.88150086  51.11801551 -93.88205196
+  38.11918307 -12.88042095  -1.88084601 -59.8813236    2.11782323
+  -6.88174254  61.11781095   6.11844481  47.11918295 -29.88182027
+   4.11805055 -15.88081662]
+Ave mean squared error: 1000085.933045
+
+Running with data/fire_data.txt
+Chose random training instances to serve as hidden node centers
+Initialized weight vector
+Started gradient descent
+Weights were updated by 39.132109 last iteration
+Started gradient descent
+Weights were updated by 32.565374 last iteration
+Started gradient descent
+Weights were updated by 27.100598 last iteration
+Started gradient descent
+Weights were updated by 22.552863 last iteration
+Started gradient descent
+Weights were updated by 18.768281 last iteration
+Started gradient descent
+Weights were updated by 15.618787 last iteration
+Started gradient descent
+Weights were updated by 12.997808 last iteration
+Started gradient descent
+Weights were updated by 10.816654 last iteration
+Started gradient descent
+Weights were updated by 9.001518 last iteration
+Started gradient descent
+Weights were updated by 7.490979 last iteration
+Started gradient descent
+Weights were updated by 6.233922 last iteration
+Started gradient descent
+Weights were updated by 5.187811 last iteration
+Started gradient descent
+Weights were updated by 4.317248 last iteration
+Started gradient descent
+Weights were updated by 3.592773 last iteration
+Started gradient descent
+Weights were updated by 2.989872 last iteration
+Started gradient descent
+Weights were updated by 2.488144 last iteration
+Started gradient descent
+Weights were updated by 2.070610 last iteration
+Started gradient descent
+Weights were updated by 1.723142 last iteration
+Started gradient descent
+Weights were updated by 1.433983 last iteration
+Started gradient descent
+Weights were updated by 1.193347 last iteration
+Started gradient descent
+Weights were updated by 0.993092 last iteration
+Started gradient descent
+Weights were updated by 0.826442 last iteration
+Started gradient descent
+Weights were updated by 0.687757 last iteration
+Started gradient descent
+Weights were updated by 0.572345 last iteration
+Started gradient descent
+Weights were updated by 0.476300 last iteration
+Started gradient descent
+Weights were updated by 0.396373 last iteration
+Started gradient descent
+Weights were updated by 0.329858 last iteration
+Started gradient descent
+Weights were updated by 0.274504 last iteration
+Started gradient descent
+Weights were updated by 0.228440 last iteration
+Started gradient descent
+Weights were updated by 0.190106 last iteration
+Started gradient descent
+Weights were updated by 0.158204 last iteration
+Started gradient descent
+Weights were updated by 0.131656 last iteration
+Started gradient descent
+Weights were updated by 0.109563 last iteration
+Started gradient descent
+Weights were updated by 0.091177 last iteration
+Started gradient descent
+Weights were updated by 0.075877 last iteration
+Started gradient descent
+Weights were updated by 0.063144 last iteration
+Started gradient descent
+Weights were updated by 0.052548 last iteration
+Started gradient descent
+Weights were updated by 0.043730 last iteration
+Started gradient descent
+Weights were updated by 0.036392 last iteration
+Started gradient descent
+Weights were updated by 0.030285 last iteration
+Started gradient descent
+Weights were updated by 0.025203 last iteration
+Started gradient descent
+Weights were updated by 0.020973 last iteration
+Started gradient descent
+Weights were updated by 0.017454 last iteration
+Started gradient descent
+Weights were updated by 0.014525 last iteration
+Started gradient descent
+Weights were updated by 0.012088 last iteration
+Started gradient descent
+Weights were updated by 0.010059 last iteration
+Started gradient descent
+Found weights: [ -80.44894385    4.55062546  -29.44736099   98.55061631  -83.44822874
+  -50.44819888   70.55070831  102.55115384   36.55050175  100.55215047
+  -62.44758859  -73.44883076   44.55181705   56.55090791   98.55042273
+  -23.44858562  -68.44912705  -32.4483858   -54.44908704   27.55261013
+  -37.44951479  -55.44923634  -49.44947815   18.55278006  -46.44869429
+   33.55099577  -25.44739114  101.5504941    69.55064781   44.55206378
+   22.55083315   22.55060189  -25.44847949  -66.44913076  -72.44957131
+  -65.44881241   95.55081401  -16.44910401  -40.44825352  -60.4478402
+   60.55046011   24.55092599]
+Chose random training instances to serve as hidden node centers
+Initialized weight vector
+Started gradient descent
+Weights were updated by 39.719373 last iteration
+Started gradient descent
+Weights were updated by 33.053263 last iteration
+Started gradient descent
+Weights were updated by 27.505928 last iteration
+Started gradient descent
+Weights were updated by 22.889603 last iteration
+Started gradient descent
+Weights were updated by 19.048037 last iteration
+Started gradient descent
+Weights were updated by 15.851202 last iteration
+Started gradient descent
+Weights were updated by 13.190892 last iteration
+Started gradient descent
+Weights were updated by 10.977062 last iteration
+Started gradient descent
+Weights were updated by 9.134780 last iteration
+Started gradient descent
+Weights were updated by 7.601688 last iteration
+Started gradient descent
+Weights were updated by 6.325895 last iteration
+Started gradient descent
+Weights were updated by 5.264219 last iteration
+Started gradient descent
+Weights were updated by 4.380724 last iteration
+Started gradient descent
+Weights were updated by 3.645506 last iteration
+Started gradient descent
+Weights were updated by 3.033680 last iteration
+Started gradient descent
+Weights were updated by 2.524537 last iteration
+Started gradient descent
+Weights were updated by 2.100844 last iteration
+Started gradient descent
+Weights were updated by 1.748259 last iteration
+Started gradient descent
+Weights were updated by 1.454848 last iteration
+Started gradient descent
+Weights were updated by 1.210681 last iteration
+Started gradient descent
+Weights were updated by 1.007492 last iteration
+Started gradient descent
+Weights were updated by 0.838404 last iteration
+Started gradient descent
+Weights were updated by 0.697695 last iteration
+Started gradient descent
+Weights were updated by 0.580601 last iteration
+Started gradient descent
+Weights were updated by 0.483158 last iteration
+Started gradient descent
+Weights were updated by 0.402070 last iteration
+Started gradient descent
+Weights were updated by 0.334590 last iteration
+Started gradient descent
+Weights were updated by 0.278436 last iteration
+Started gradient descent
+Weights were updated by 0.231706 last iteration
+Started gradient descent
+Weights were updated by 0.192819 last iteration
+Started gradient descent
+Weights were updated by 0.160458 last iteration
+Started gradient descent
+Weights were updated by 0.133528 last iteration
+Started gradient descent
+Weights were updated by 0.111118 last iteration
+Started gradient descent
+Weights were updated by 0.092469 last iteration
+Started gradient descent
+Weights were updated by 0.076950 last iteration
+Started gradient descent
+Weights were updated by 0.064036 last iteration
+Started gradient descent
+Weights were updated by 0.053288 last iteration
+Started gradient descent
+Weights were updated by 0.044345 last iteration
+Started gradient descent
+Weights were updated by 0.036903 last iteration
+Started gradient descent
+Weights were updated by 0.030709 last iteration
+Started gradient descent
+Weights were updated by 0.025555 last iteration
+Started gradient descent
+Weights were updated by 0.021266 last iteration
+Started gradient descent
+Weights were updated by 0.017697 last iteration
+Started gradient descent
+Weights were updated by 0.014727 last iteration
+Started gradient descent
+Weights were updated by 0.012255 last iteration
+Started gradient descent
+Weights were updated by 0.010199 last iteration
+Started gradient descent
+Found weights: [  49.36564705  -32.63352911   66.36706407   72.36658096  -49.63331354
+   -7.63281428   14.3647059    38.36498127   26.36518293  -10.63366224
+  -79.63580619  -18.63345166   36.36698363   -3.63340576 -103.63328151
+    0.36657512   -0.63582664   36.36721665   49.36525329   59.36696444
+  -32.6356998   -20.63320775   89.36633348  -34.63284461  -86.63323079
+   10.36681838  -61.63585532   56.36411929    8.36645124  -32.6334158
+   82.36631682  -60.63383101  -11.63274264  -34.63281604  -76.63288995
+   -3.63582467  -70.63310954   67.36580719   38.3662378    88.36569948
+   11.3673202   -53.63368318]
+Chose random training instances to serve as hidden node centers
+Initialized weight vector
+Started gradient descent
+Weights were updated by 14.090254 last iteration
+Started gradient descent
+Weights were updated by 11.724854 last iteration
+Started gradient descent
+Weights were updated by 9.756545 last iteration
+Started gradient descent
+Weights were updated by 8.118666 last iteration
+Started gradient descent
+Weights were updated by 6.755746 last iteration
+Started gradient descent
+Weights were updated by 5.621626 last iteration
+Started gradient descent
+Weights were updated by 4.677896 last iteration
+Started gradient descent
+Weights were updated by 3.892594 last iteration
+Started gradient descent
+Weights were updated by 3.239126 last iteration
+Started gradient descent
+Weights were updated by 2.695358 last iteration
+Started gradient descent
+Weights were updated by 2.242875 last iteration
+Started gradient descent
+Weights were updated by 1.866352 last iteration
+Started gradient descent
+Weights were updated by 1.553039 last iteration
+Started gradient descent
+Weights were updated by 1.292322 last iteration
+Started gradient descent
+Weights were updated by 1.075374 last iteration
+Started gradient descent
+Weights were updated by 0.894846 last iteration
+Started gradient descent
+Weights were updated by 0.744623 last iteration
+Started gradient descent
+Weights were updated by 0.619620 last iteration
+Started gradient descent
+Weights were updated by 0.515601 last iteration
+Started gradient descent
+Weights were updated by 0.429045 last iteration
+Started gradient descent
+Weights were updated by 0.357019 last iteration
+Started gradient descent
+Weights were updated by 0.297084 last iteration
+Started gradient descent
+Weights were updated by 0.247211 last iteration
+Started gradient descent
+Weights were updated by 0.205711 last iteration
+Started gradient descent
+Weights were updated by 0.171177 last iteration
+Started gradient descent
+Weights were updated by 0.142441 last iteration
+Started gradient descent
+Weights were updated by 0.118529 last iteration
+Started gradient descent
+Weights were updated by 0.098631 last iteration
+Started gradient descent
+Weights were updated by 0.082073 last iteration
+Started gradient descent
+Weights were updated by 0.068295 last iteration
+Started gradient descent
+Weights were updated by 0.056830 last iteration
+Started gradient descent
+Weights were updated by 0.047290 last iteration
+Started gradient descent
+Weights were updated by 0.039351 last iteration
+Started gradient descent
+Weights were updated by 0.032745 last iteration
+Started gradient descent
+Weights were updated by 0.027248 last iteration
+Started gradient descent
+Weights were updated by 0.022674 last iteration
+Started gradient descent
+Weights were updated by 0.018867 last iteration
+Started gradient descent
+Weights were updated by 0.015700 last iteration
+Started gradient descent
+Weights were updated by 0.013064 last iteration
+Started gradient descent
+Weights were updated by 0.010871 last iteration
+Started gradient descent
+Found weights: [  49.00239513   -4.99717626  -13.99725042   30.00272942   82.0028437
+   49.00241085  -39.99767863  -13.99730539   25.00283794  -12.99763785
+   45.00278975  -58.99742074   45.00265013    4.00252856  -87.9976012
+  -83.99758927    3.00284414 -101.99714357   44.00272456   76.00279046
+  -39.99738793   63.00240432   72.00265036   32.00279827   91.00279508
+  -11.9971958   -91.99736107   74.0027086    25.00278255  -80.99714936
+   72.00268258  -64.99723899   77.00277219  -70.99726806  -32.9974272
+    3.00287792  -34.99767494   -9.99717377   -4.99768691   42.0025728
+  -29.99716603  -97.99727332]
+Chose random training instances to serve as hidden node centers
+Initialized weight vector
+Started gradient descent
+Weights were updated by 2.297560 last iteration
+Started gradient descent
+Weights were updated by 1.912001 last iteration
+Started gradient descent
+Weights were updated by 1.591143 last iteration
+Started gradient descent
+Weights were updated by 1.324130 last iteration
+Started gradient descent
+Weights were updated by 1.101924 last iteration
+Started gradient descent
+Weights were updated by 0.917008 last iteration
+Started gradient descent
+Weights were updated by 0.763123 last iteration
+Started gradient descent
+Weights were updated by 0.635061 last iteration
+Started gradient descent
+Weights were updated by 0.528490 last iteration
+Started gradient descent
+Weights were updated by 0.439803 last iteration
+Started gradient descent
+Weights were updated by 0.365998 last iteration
+Started gradient descent
+Weights were updated by 0.304579 last iteration
+Started gradient descent
+Weights were updated by 0.253467 last iteration
+Started gradient descent
+Weights were updated by 0.210932 last iteration
+Started gradient descent
+Weights were updated by 0.175535 last iteration
+Started gradient descent
+Weights were updated by 0.146078 last iteration
+Started gradient descent
+Weights were updated by 0.121564 last iteration
+Started gradient descent
+Weights were updated by 0.101164 last iteration
+Started gradient descent
+Weights were updated by 0.084188 last iteration
+Started gradient descent
+Weights were updated by 0.070060 last iteration
+Started gradient descent
+Weights were updated by 0.058303 last iteration
+Started gradient descent
+Weights were updated by 0.048519 last iteration
+Started gradient descent
+Weights were updated by 0.040377 last iteration
+Started gradient descent
+Weights were updated by 0.033601 last iteration
+Started gradient descent
+Weights were updated by 0.027963 last iteration
+Started gradient descent
+Weights were updated by 0.023270 last iteration
+Started gradient descent
+Weights were updated by 0.019365 last iteration
+Started gradient descent
+Weights were updated by 0.016115 last iteration
+Started gradient descent
+Weights were updated by 0.013411 last iteration
+Started gradient descent
+Weights were updated by 0.011160 last iteration
+Started gradient descent
+Found weights: [ 10.32484384  98.32492863  78.3248648    2.32483565 -43.67508919
+  28.32486075 -13.67511523  51.32492522  64.32487545 -57.67515268
+  11.32489626 -87.67512607 -43.67513757 -56.67513372 -65.67513797
+ -23.6751136   75.32485253 -27.67512548  37.32486196  47.324895
+  43.32490086  68.32488627  46.32487026  -8.6751205    7.32488475
+  85.32487248  88.32496145  -3.67513465 -89.67515108  38.32488091
+ -51.67507697 -54.6751301  -69.67510747  61.32487217  68.32491526
+ -92.67504363 -74.67510373  50.32489283 -38.67514944  22.32492259
+ -72.67509692 -96.67507127]
+Chose random training instances to serve as hidden node centers
+Initialized weight vector
+Started gradient descent
+Weights were updated by 58.080901 last iteration
+Started gradient descent
+Weights were updated by 48.330550 last iteration
+Started gradient descent
+Weights were updated by 40.217042 last iteration
+Started gradient descent
+Weights were updated by 33.465592 last iteration
+Started gradient descent
+Weights were updated by 27.847544 last iteration
+Started gradient descent
+Weights were updated by 23.172628 last iteration
+Started gradient descent
+Weights were updated by 19.282515 last iteration
+Started gradient descent
+Weights were updated by 16.045456 last iteration
+Started gradient descent
+Weights were updated by 13.351819 last iteration
+Started gradient descent
+Weights were updated by 11.110378 last iteration
+Started gradient descent
+Weights were updated by 9.245219 last iteration
+Started gradient descent
+Weights were updated by 7.693175 last iteration
+Started gradient descent
+Weights were updated by 6.401681 last iteration
+Started gradient descent
+Weights were updated by 5.326996 last iteration
+Started gradient descent
+Weights were updated by 4.432725 last iteration
+Started gradient descent
+Weights were updated by 3.688580 last iteration
+Started gradient descent
+Weights were updated by 3.069358 last iteration
+Started gradient descent
+Weights were updated by 2.554088 last iteration
+Started gradient descent
+Weights were updated by 2.125320 last iteration
+Started gradient descent
+Weights were updated by 1.768531 last iteration
+Started gradient descent
+Weights were updated by 1.471638 last iteration
+Started gradient descent
+Weights were updated by 1.224587 last iteration
+Started gradient descent
+Weights were updated by 1.019009 last iteration
+Started gradient descent
+Weights were updated by 0.847942 last iteration
+Started gradient descent
+Weights were updated by 0.705594 last iteration
+Started gradient descent
+Weights were updated by 0.587142 last iteration
+Started gradient descent
+Weights were updated by 0.488575 last iteration
+Started gradient descent
+Weights were updated by 0.406555 last iteration
+Started gradient descent
+Weights were updated by 0.338305 last iteration
+Started gradient descent
+Weights were updated by 0.281512 last iteration
+Started gradient descent
+Weights were updated by 0.234253 last iteration
+Started gradient descent
+Weights were updated by 0.194928 last iteration
+Started gradient descent
+Weights were updated by 0.162204 last iteration
+Started gradient descent
+Weights were updated by 0.134974 last iteration
+Started gradient descent
+Weights were updated by 0.112315 last iteration
+Started gradient descent
+Weights were updated by 0.093460 last iteration
+Started gradient descent
+Weights were updated by 0.077771 last iteration
+Started gradient descent
+Weights were updated by 0.064715 last iteration
+Started gradient descent
+Weights were updated by 0.053851 last iteration
+Started gradient descent
+Weights were updated by 0.044811 last iteration
+Started gradient descent
+Weights were updated by 0.037288 last iteration
+Started gradient descent
+Weights were updated by 0.031028 last iteration
+Started gradient descent
+Weights were updated by 0.025819 last iteration
+Started gradient descent
+Weights were updated by 0.021485 last iteration
+Started gradient descent
+Weights were updated by 0.017878 last iteration
+Started gradient descent
+Weights were updated by 0.014877 last iteration
+Started gradient descent
+Weights were updated by 0.012379 last iteration
+Started gradient descent
+Weights were updated by 0.010301 last iteration
+Started gradient descent
+Found weights: [ -54.23621427  -70.23572827  -21.23573692   58.76425915   68.7636879
+   88.76252387   16.7641068     4.76364108   42.76266107   44.7625299
+  -60.23646279   46.76429383   -2.23663806  -91.2356901   -79.2373711
+   63.76388215   15.7641697     2.76433504  -40.23665291  -11.23732133
+   90.76245964   22.7638295   -65.23578721    1.76312929  -26.2357365
+   -3.23633488  -48.23569529  -22.23652671    8.76373738    0.76370538
+    9.76263882   70.76291406   88.76245081 -108.23665349    0.76242822
+  -84.23682568   80.76349638   18.76383398   36.76267981  -14.23744644
+  -61.23670136   -9.23573428]
+Ave mean squared error: 419850.024989
+
+
+Process finished with exit code 0
